@@ -1,4 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 
 /* Importing Bootstrap SCSS file. */
+
+$body-bg: rgb(226, 226, 226);
+$theme-colors: (
+    "primary": #1f82af,
+    "secondary": #41088b
+);
+
 @import 'bootstrap/scss/bootstrap';
